@@ -1,0 +1,20 @@
+File created with BiNGO v3.0.5  (c) on Jul 10, 2023 at 11:40:15 PM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://63e2ab03-e6d7-4f1b-807a-92cd6b40500d_198.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://63e2ab03-e6d7-4f1b-807a-92cd6b40500d_198.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+LRGUK	TENM2	MAST4	PAGE1	MIR891A	FGF1	AFF2	HSD11B1	TMEM245	DPP6	TCEAL5	ZNF252P-AS1	MAP2	MGAT5	LINC01828	CSPP1	TYW1	GPC3	IARS1	RNU6-785P	PTPRN2	RYK	HUWE1	C1ORF141	SENP2	DLG1	SERPINI1	SGK1	
+
+No annotations were retrieved for the following entities:
+LRGUK	TENM2	TMEM245	ZNF252P-AS1	LINC01828	CSPP1	MIR891A	C1ORF141	RNU6-785P	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set

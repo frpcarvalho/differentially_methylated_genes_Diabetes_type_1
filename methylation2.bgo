@@ -1,0 +1,35 @@
+File created with BiNGO v3.0.5  (c) on Jul 10, 2023 at 11:44:58 PM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://63e2ab03-e6d7-4f1b-807a-92cd6b40500d_198.0:1/data/GO_Molecular_Function
+Selected annotation file : bundle://63e2ab03-e6d7-4f1b-807a-92cd6b40500d_198.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+LRGUK	TENM2	MAST4	PAGE1	MIR891A	FGF1	AFF2	HSD11B1	TMEM245	DPP6	TCEAL5	ZNF252P-AS1	MAP2	MGAT5	LINC01828	CSPP1	TYW1	GPC3	IARS1	RNU6-785P	PTPRN2	RYK	HUWE1	C1ORF141	SENP2	DLG1	SERPINI1	SGK1	
+
+No annotations were retrieved for the following entities:
+TENM2	TMEM245	ZNF252P-AS1	LINC01828	CSPP1	PAGE1	MIR891A	C1ORF141	RNU6-785P	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+3824	3.3561E-4	2.7277E-2	14	5096	19	15442	catalytic activity	LRGUK|PTPRN2|MAST4|RYK|HUWE1|SENP2|HSD11B1|DPP6|DLG1|MAP2|MGAT5|TYW1|IARS1|SGK1
+1948	1.1430E-3	2.7277E-2	2	41	19	15442	glycoprotein binding	MAP2|GPC3
+60422	1.2304E-3	2.7277E-2	1	1	19	15442	peptidyl-dipeptidase inhibitor activity	GPC3
+70524	1.2304E-3	2.7277E-2	1	1	19	15442	11-beta-hydroxysteroid dehydrogenase (NADP+) activity	HSD11B1
+16301	1.6630E-3	2.7277E-2	5	741	19	15442	kinase activity	LRGUK|DLG1|MAST4|RYK|SGK1
+3845	2.4594E-3	2.7277E-2	1	2	19	15442	11-beta-hydroxysteroid dehydrogenase activity	HSD11B1
+16929	2.4594E-3	2.7277E-2	1	2	19	15442	SUMO-specific protease activity	SENP2
+2151	2.4594E-3	2.7277E-2	1	2	19	15442	G-quadruplex RNA binding	AFF2
+2166	2.4594E-3	2.7277E-2	1	2	19	15442	beta-dystroglycan binding	MAP2
+30144	2.4594E-3	2.7277E-2	1	2	19	15442	alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase activity	MGAT5
+4822	2.4594E-3	2.7277E-2	1	2	19	15442	isoleucine-tRNA ligase activity	IARS1
+16772	3.4826E-3	3.4600E-2	5	877	19	15442	transferase activity, transferring phosphorus-containing groups	LRGUK|DLG1|MAST4|RYK|SGK1
+2162	3.6869E-3	3.4600E-2	1	3	19	15442	dystroglycan binding	MAP2
+8238	4.3857E-3	3.8219E-2	2	81	19	15442	exopeptidase activity	DPP6|MAP2
+48155	6.1377E-3	4.9920E-2	1	5	19	15442	S100 alpha binding	FGF1
